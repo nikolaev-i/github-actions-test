@@ -10,6 +10,7 @@ The program contains two functions:
 - **gauge** expects an int and returns a str that is:
   - "E" if that int is less than or equal to 1,
   - "F" if that int is greater than or equal to 99,
-  - and "Z%" otherwise, wherein Z is that same int.
+  - and "Z%" otherwise, where Z is that same int.
   
-In the file called test_fuel.py are implemented two functions that collectively test the implementations of convert and gauge thoroughly.
+In the file called test_fuel.py are implemented two functions that collectively test the implementations of convert and gauge thoroughly. 
+
