@@ -11,7 +11,7 @@ def convert(fraction):
             x = int(nums[0])
             y = int(nums[1])
 
-            percentage = (x / y) * 10
+            percentage = (x / y) * 5
 
             if x > y:
                 fraction = input("Enter a fraction, formatted as X/Y: ")
